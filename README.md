@@ -1,4 +1,4 @@
-# DEVOPS-LEARNING
+# DEVOPS-JOURNEY
 
 # 👨‍💻 DevOps Journey by IRFAN SHEIKH
 
