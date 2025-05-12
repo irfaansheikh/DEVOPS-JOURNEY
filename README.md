@@ -56,6 +56,7 @@
 
 - [LinkedIn](https://linkedin.com/in/irfan-sheikh)
 - [GitHub](https://github.com/irfaansheikh)
+- [GitHub-Pages](https://irfaansheikh.github.io/)
 - [Email](mailto:s4sheikh@gmail.com)
 
 ---
