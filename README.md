@@ -1,6 +1,6 @@
 # DEVOPS-LEARNING
 
-# 👨‍💻 DevOps Journey by [IRFAN SHEIKH]
+# 👨‍💻 DevOps Journey by IRFAN SHEIKH
 
 🎯 **Goal**: Transition into a DevOps career to build a remote, flexible lifestyle that supports freedom and travel.  
 📅 **Currently Learning**: DevOps tools (Linux, Docker, AWS, CI/CD, Kubernetes)  
@@ -54,9 +54,9 @@
 
 ## 🌱 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://linkedin.com/in/irfan-sheikh)
+- [GitHub](https://github.com/irfaansheikh)
+- [Email](mailto:s4sheikh@gmail.com)
 
 ---
 
