@@ -120,6 +120,7 @@ Write this somewhere you’ll see every day:
 For: Career change, remote/international job preparation, and portfolio building
 Profile: Technical support background, MBA, age 40, current DevOps student
 
+
 🟩 Phase 1: Now to May 27 — Solidify Core Foundations
 - Complete your current DevOps course assignments and tasks
 - Focus evenings on:
@@ -132,6 +133,8 @@ Profile: Technical support background, MBA, age 40, current DevOps student
 - Build a clean GitHub README profile
 
 🎯 Outcome: You’re confident in core tools and have a visible DevOps presence
+
+
 🟨 Phase 2: May 28 to July 31 — Skill Upgrade & Projects
 - Learn one major tool every 2 weeks:
   - Terraform (Infrastructure as Code)
@@ -145,6 +148,8 @@ Profile: Technical support background, MBA, age 40, current DevOps student
 - Polish resume + make a remote/freelance portfolio
 
 🎯 Outcome: You are ready to apply to freelance, remote, and international jobs
+
+
 🟥 Phase 3: August onward — Cert + Global Job Hunt
 - Study and pass AWS Solutions Architect Associate (2–3 weeks)
 - Apply to international jobs:
